@@ -4,3 +4,4 @@ It is a simple website containing recipes.
 
 ## Skills Demonstrated
 Basic HTML structure 
+Web Page Integration
